@@ -28,6 +28,10 @@ A simple console-based Library Management System built using C++.
 3 Search Book
 4 Exit
 
+## Screenshot
+
+<img width="1920" height="1020" alt="Library Management System - Library Management System cpp - Microsoft Visual Studio 04-03-2026 15_14_01" src="https://github.com/user-attachments/assets/879aa315-797a-43d4-a502-bb03b563a1f3" />
+
 
 ## Author
 
